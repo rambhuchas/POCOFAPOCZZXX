@@ -1,0 +1,15 @@
+name: Hello World
+description: Provides option to test the Hello world APP with seperate ROUTE.
+package: Custom
+
+type: module
+# core: 8.x
+
+#dependencies:
+#  - drupal:toolbar
+
+# Information added by Drupal.org packaging script on 2018-02-06
+#version: '8.x-1.23'
+core: '8.x'
+project: 'helloWorld'
+#datestamp: 1517936588
